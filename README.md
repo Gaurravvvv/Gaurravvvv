@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gaurav 👋
 
-<!--
-**Gaurravvvv/Gaurravvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Engineering Student (AI & Data Science)  
+💻 Interested in Software Engineering, DevOps & ML  
+🎯 Goal: Strong internship → solid placement
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C++ (DSA)
+- Python (Basics)
+- Docker, Git
+- PostgreSQL, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **Inventory Management System** – Flask + PostgreSQL  
+- **Document Intelligence** – Resume summary & info extraction  
+- **Dockerized Web App** – Multi-container setup
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 📫 Connect
+- LinkedIn: your-link-here
+
