@@ -24,7 +24,7 @@
 - **Dockerized Web App** – Multi-container setup
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurravvvv&show_icons=true&theme=default)
 
 ## 📫 Connect
 <a href="https://www.linkedin.com/in/gaurravvvv/" target="_blank">
