@@ -1,17 +1,25 @@
 # Hi, I'm Gaurav 👋
 
 🎓 3rd-year Engineering Student (AI & Data Science)  
-💻 Interested in Software Engineering, DevOps & ML  
-🎯 Goal: Strong internship → solid placement
+💻 Interested in Software Engineering, DevOps & ML
 
-## 🔧 Skills
-- C++ (DSA)
-- Python (Basics)
-- Docker, Git
-- PostgreSQL, MySQL
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
 
 ## 📌 Projects
-- **Inventory Management System** – Flask + PostgreSQL  
+- **Inventory Management System** – Django + PostgreSQL  
 - **Document Intelligence** – Resume summary & info extraction  
 - **Dockerized Web App** – Multi-container setup
 
@@ -19,5 +27,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ## 📫 Connect
-- LinkedIn: your-link-here
+<a href="https://www.linkedin.com/in/gaurravvvv/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
+</a>
+
 
