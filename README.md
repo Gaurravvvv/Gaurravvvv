@@ -1,75 +1,73 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">AI & Data Science Student | Aspiring Software Engineer | DevOps & Cloud Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaurravvvv&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
 - 🎓 Third-year Engineering Student (AI & DS)
-- 💻 Strong in C++ | Learning Python deeply
+- 💻 Strong in C++ | Improving Python daily
 - 🔥 Actively practicing Data Structures & Algorithms
-- ☁️ Exploring Cloud & DevOps (Docker, Kubernetes, CI/CD)
-- 🎯 Goal: Secure a top-tier software engineering role
-
-I believe in building real systems, not just completing tutorials.
+- ☁️ Learning Cloud & DevOps (Docker, Kubernetes, CI/CD)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- C++
-- Python
-- Bash (Basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash" />
+</p>
 
 ### ⚙️ DevOps & Cloud
-- Docker
-- Kubernetes
-- Jenkins
-- AWS (Basics – IAM, EKS)
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,git" />
+</p>
 
 ### 📊 AI / ML
-- NumPy
-- Pandas
-- Scikit-Learn
-- PyTorch (Basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
 
 ---
 
-## 📌 What I’m Working On
+## 📌 Currently Working On
 
-- 🚀 Striver SDE Sheet (DSA mastery)
-- 🐳 Building a CI/CD Pipeline Project
-- ☁️ Learning AWS & Kubernetes hands-on
+- 🚀 DSA
+- 🐳 CI/CD Pipeline Project
+- ☁️ AWS & Kubernetes hands-on
 - 🧠 Strengthening ML fundamentals
-- 🖥️ Planning an Operating System project in C++
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurravvvv&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurravvvv&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (your email)
-- 🌐 Portfolio: (if any)
+<p align="left">
+<a href="https://linkedin.com/in/gaurravvvv" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://twitter.com/gaurstic" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+<a href="https://instagram.com/whoisgaurav.__" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+<a href="mailto:gauravvibhandik01@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ---
-
-## 💡 Mindset
-
-> Consistency beats intensity.  
-> Skill > Hype.  
-> Systems > Motivation.
-
----
-
-⭐ If you find my work interesting, feel free to connect or collaborate!
