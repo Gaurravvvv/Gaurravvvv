@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gaurav%20Vibhandik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gaurav%20Vibhandik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+AI-Powered+Systems;Full+Stack+%2B+DevOps+%2B+Machine+Learning;Final+Year+AI+%26+Data+Science+Engineer;Open+Source+Lead+%40+GDG+On+Campus" alt="Typing SVG" />
 
@@ -200,13 +200,18 @@ Leading open-source initiatives and technical community engagement on campus.
 
 ---
 
+<!-- 
 ## Contribution Snake
 
+To enable this animated snake contribution graph on your profile:
+1. Create a repository named exactly "Gaurravvvv" on GitHub (if not already created).
+2. Configure a GitHub Action workflow (e.g., in `.github/workflows/snake.yml`) using the "Platane/snk" action to auto-generate the snake SVG to the "output" branch.
+3. Once the SVG is generated on the output branch, uncomment the block below to display it.
+
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/gaurravvvv/gaurravvvv/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/gaurravvvv/gaurravvvv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+-->
 
 ---
 
@@ -248,6 +253,6 @@ Open To:
 
 *"Engineering is the art of making systems that work, and keep working, when no one's watching."*
 
-![Footer](https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
