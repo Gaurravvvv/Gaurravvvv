@@ -1,11 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gaurav%20Vibhandik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,6A5ACD,8A2BE2&height=220&section=header&text=Gaurav%20Vibhandik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+AI-Powered+Systems;Full+Stack+%2B+DevOps+%2B+Machine+Learning;Final+Year+AI+%26+Data+Science+Engineer;Open+Source+Lead+%40+GDG+On+Campus" alt="Typing SVG" />
 
-[![B.E. AI & DS](https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-6A5ACD?style=flat-square)](#)
-[![Location](https://img.shields.io/badge/Location-Nashik%2C%20India-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white)](#)
+![B.E. AI & DS](https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-6A5ACD?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Nashik%2C%20India-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurravvvv.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurravvvv)
@@ -14,7 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaurravvvv&color=8a2be2&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/gaurravvvv?style=flat-square&color=6a5acd&label=Followers)
-![Stars](https://img.shields.io/github/stars/gaurravvvv?style=flat-square&color=a78bfa&label=Stars)
+![Stars](https://img.shields.io/github/stars/gaurravvvv/Draw?style=flat-square&color=a78bfa&label=Stars)
 
 </div>
 
@@ -170,11 +170,11 @@ Leading open-source initiatives and technical community engagement on campus.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gaurravvvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=gaurravvvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9)
 
 ![Streak](https://streak-stats.demolab.com?user=gaurravvvv&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurravvvv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gaurravvvv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
 
 </div>
 
@@ -184,7 +184,7 @@ Leading open-source initiatives and technical community engagement on campus.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gaurravvvv&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
+![Trophies](https://github-trophies.vercel.app/?username=gaurravvvv&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
 
 </div>
 
@@ -253,6 +253,6 @@ Open To:
 
 *"Engineering is the art of making systems that work, and keep working, when no one's watching."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,6A5ACD,8A2BE2&height=120&section=footer)
 
 </div>
