@@ -172,7 +172,7 @@ Leading open-source initiatives and technical community engagement on campus.
 
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=gaurravvvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9)
 
-![Streak](https://streak-stats.demolab.com?user=gaurravvvv&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA)
+![Streak](https://streak-stats.vercel.app?user=gaurravvvv&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gaurravvvv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
 
