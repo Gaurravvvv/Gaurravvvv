@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,6A5ACD,8A2BE2&height=220&section=header&text=Gaurav%20Vibhandik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,6A5ACD,8A2BE2&height=220&section=header&text=Gaurav%20Vibhandik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26amp%3B%20DevOps%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure%2C+CI%2FCD+%26+Kubernetes;Building+Scalable+Software+with+Python;Open+Source+Lead+%40+GDG+On+Campus" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+%26+Kubernetes;Automating+CI%2FCD+%26+Cloud+Deployments;Backend+Systems+with+Python+%26+FastAPI;Open+Source+Lead+%40+GDG+On+Campus" alt="Typing SVG" />
 
 ![Cloud & DevOps](https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-6A5ACD?style=flat-square&logo=docker&logoColor=white)
 ![Software Engineering](https://img.shields.io/badge/Discipline-Software%20Engineering-8A2BE2?style=flat-square&logo=python&logoColor=white)
@@ -42,7 +42,7 @@ Beyond code and infrastructure, I lead the Open Source vertical at **Google Deve
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 **Cloud & DevOps**  
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Terraform](https://skillicons.dev/icons?i=terraform) ![ArgoCD](https://skillicons.dev/icons?i=argocd) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Linux](https://skillicons.dev/icons?i=linux) ![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Terraform](https://skillicons.dev/icons?i=terraform) ![ArgoCD](https://raw.githubusercontent.com/gaurravvvv/gaurravvvv/main/icons/argocd.svg) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Linux](https://skillicons.dev/icons?i=linux) ![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
