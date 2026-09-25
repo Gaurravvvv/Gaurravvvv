@@ -1,11 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,6A5ACD,8A2BE2&height=220&section=header&text=Gaurav%20Vibhandik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,6A5ACD,8A2BE2&height=220&section=header&text=Gaurav%20Vibhandik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+AI-Powered+Systems;Full+Stack+%2B+DevOps+%2B+Machine+Learning;Final+Year+AI+%26+Data+Science+Engineer;Open+Source+Lead+%40+GDG+On+Campus" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Automating+Infrastructure%2C+CI%2FCD+%26+Kubernetes;Building+Scalable+Software+with+Python;Open+Source+Lead+%40+GDG+On+Campus" alt="Typing SVG" />
 
-![B.E. AI & DS](https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-6A5ACD?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Nashik%2C%20India-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white)
+![Cloud & DevOps](https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-6A5ACD?style=flat-square&logo=docker&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Discipline-Software%20Engineering-8A2BE2?style=flat-square&logo=python&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Nashik%2C%20India-24292e?style=flat-square&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurravvvv.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurravvvv)
@@ -22,40 +23,26 @@
 
 ## About Me
 
-I'm a final-year B.E. student in **Artificial Intelligence & Data Science** at MET Institute of Engineering, Nashik. I build software that works under pressure — real-time systems handling 20+ concurrent users, custom rendering engines hitting 60FPS, and DevOps pipelines that don't break at 2 AM.
+I'm a **Cloud & DevOps Engineer** and Software Engineer focused on architecting automated, resilient, and scalable infrastructure. I bridge the gap between development and operations by treating infrastructure as code, automating CI/CD release cycles, orchestrating containers with Kubernetes, and ensuring high-availability systems with comprehensive observability.
 
-My work sits at the intersection of full-stack engineering and DevOps: React frontends backed by Node.js and Flask services, containerized with Docker, deployed on AWS, and monitored through CI/CD pipelines. I've shipped three production applications, each solving real problems with measurable engineering outcomes.
+My engineering philosophy centers on reliability, automation, and performance: writing clean, asynchronous backend services in **Python & FastAPI**, codifying environments with **Terraform**, managing declarative GitOps deployments via **ArgoCD**, and building end-to-end monitoring stacks with **Prometheus & Grafana**.
 
-Beyond code, I lead the Open Source vertical at **Google Developer Group on Campus**, organizing workshops for 300+ members and mentoring students on Git, cloud tools, and modern development workflows.
+Beyond code and infrastructure, I lead the Open Source vertical at **Google Developer Group on Campus**, hosting workshops for 300+ members and mentoring developers on Git workflows, cloud infrastructure, and DevOps best practices.
 
-**Open To:** Software Engineering · DevOps Engineering · Full Stack Roles · Open Source Collaboration
+**Open To:** Cloud Engineering · DevOps Engineering · Platform Engineering · Backend & Software Engineering Roles
 
 ---
 
 ## Tech Stack
 
-**Languages**
-![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
+**Languages**  
+![Python](https://skillicons.dev/icons?i=python)
 
-**Frontend**
-![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+**Backend & APIs**  
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
-**Backend & Databases**
-![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Flask](https://skillicons.dev/icons?i=flask) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Redis](https://skillicons.dev/icons?i=redis)
-
-**Cloud, DevOps & Tooling**
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![AWS](https://skillicons.dev/icons?i=aws) ![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git) ![Github](https://skillicons.dev/icons?i=github)
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Retrieval-Augmented Generation | Advanced | LangChain orchestration, semantic routing, hybrid search, fallback strategies |
-| LLM Integration | Advanced | Gemini 2.0/2.5, Groq Llama 3.3 70B — vision, structured generation, tool use |
-| Multi-Agent Systems | Intermediate | Conversational triage, autonomous decision loops, query translation |
-| Vector Databases | Intermediate | Hybrid database indexing, semantic similarity caching with Redis TTL |
+**Cloud & DevOps**  
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Terraform](https://skillicons.dev/icons?i=terraform) ![ArgoCD](https://skillicons.dev/icons?i=argocd) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Linux](https://skillicons.dev/icons?i=linux) ![Prometheus](https://skillicons.dev/icons?i=prometheus) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
@@ -107,7 +94,7 @@ An intelligent clinic queue and patient intake system, built as a capstone inter
 | Scale | Multi-clinic real-time patient queue dashboard with Kanban view |
 | Performance | AI-driven patient triage generating tailored complaint questionnaires with smart fallbacks |
 | Security | Google OAuth2 and secure local role authorization |
-| Impact | Recognized by CEO & CTO at AI Leela (OM Intelligence) for outstanding execution |
+| Impact | High-efficiency triage queue system built and shipped during internship at AI Leela |
 | Repository | [github.com/Gaurravvvv/Doctorra](https://github.com/Gaurravvvv/Doctorra) |
 
 </details>
@@ -150,7 +137,6 @@ Leading open-source initiatives and technical community engagement on campus.
 | Recognition | Details |
 |---|---|
 | 1st Place | GDG Nashik Hackathon 2025 |
-| CEO & CTO Recognition | Doctorra project acknowledged during internship at AI Leela |
 | Community Leadership | Selected to lead open-source initiatives at GDG On Campus MET IOE Nashik |
 
 </div>
@@ -190,52 +176,37 @@ Leading open-source initiatives and technical community engagement on campus.
 
 ---
 
-## Contribution Activity
+## Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurravvvv&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=C9D1D9&hide_border=true)
+[![Gaurav's Contribution Graph](https://ghchart.rshah.org/8A2BE2/gaurravvvv)](https://github.com/gaurravvvv)
 
 </div>
-
----
-
-<!-- 
-## Contribution Snake
-
-To enable this animated snake contribution graph on your profile:
-1. Create a repository named exactly "Gaurravvvv" on GitHub (if not already created).
-2. Configure a GitHub Action workflow (e.g., in `.github/workflows/snake.yml`) using the "Platane/snk" action to auto-generate the snake SVG to the "output" branch.
-3. Once the SVG is generated on the output branch, uncomment the block below to display it.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gaurravvvv/gaurravvvv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
--->
 
 ---
 
 ## Current Focus
 
 ```yaml
-Learning:
-  - Kubernetes orchestration & cluster management
-  - CI/CD pipeline optimization (Jenkins, GitHub Actions)
-  - System design & architecture patterns
+Architecting & Automating:
+  - Infrastructure as Code with Terraform & modular cloud architecture
+  - Declarative GitOps deployment workflows via ArgoCD & Kubernetes
+  - Automated CI/CD pipelines & container security scanning with GitHub Actions
 
-Building:
-  - Real-time collaborative applications (sub-16ms rendering)
-  - CodeShare DevOps deployment pipeline
+Building & Engineering:
+  - High-performance, asynchronous backend services using Python & FastAPI
+  - Production-grade containerization with Docker & self-healing cluster deployments
 
-Exploring:
-  - Generative AI integration using LangChain & Gemini/Groq
-  - Cloud security configurations & container deployment
+Observability & Systems:
+  - Cloud monitoring, metrics scraping & alerting using Prometheus & Grafana
+  - Linux systems internals, network automation & container runtime security
 
 Open To:
-  - Software Engineering roles
-  - DevOps Engineering roles
-  - Full-Stack Developer roles
-  - Open source collaboration
+  - Cloud Engineering Roles
+  - DevOps & Platform Engineering Roles
+  - Software Engineering (Backend & Cloud-Native) Roles
+  - Open Source DevOps Collaborations
 ```
 
 ---
